@@ -23,7 +23,6 @@ const AuthUser = () => {
         false
     );
 
-    console.log({ formState }, '&&&&&&&auth');
     return (
         <Card className='authentication'>
             <h2>User Login</h2>
